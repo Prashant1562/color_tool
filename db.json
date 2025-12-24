@@ -1,0 +1,1190 @@
+{
+"brands": [
+  {
+    "brand": "Anoro",
+    "web": [
+      { "color": "#DEDFE5", "type": "Secondary Color" },
+      { "color": "#EED2D6", "type": "Primary Color" }
+    ],
+    "email": [
+      { "color": "#AC1E36", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#F0F0F0", "type": "Surface Color" },
+      { "color": "#EED2D6", "type": "Surface Color" },
+      { "color": "#DEDFE5", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "AREXVY",
+    "web": [
+      { "color": "#592C82", "type": "Primary Color" },
+      { "color": "#00A0AF", "type": "Secondary Color" },
+      { "color": "FCF8FF", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#592C82", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#B1B3B5", "type": "Surface Color" },
+      { "color": "#93D5DB", "type": "Surface Color" },
+      { "color": "#B7A5C7", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "Augmentin",
+    "variants": [
+      {
+        "country": "Algeria",
+        "web": [
+          { "color": "#152662", "type": "" },
+          { "color": "#009EE0", "type": "" },
+          { "color": "#FFED00", "type": "" }
+        ],
+        "email": [
+          { "color": "#152662", "type": "" },
+          { "color": "#009EE0", "type": "" },
+          { "color": "#FFED00", "type": "" }
+        ]
+      },
+      {
+        "country": "India",
+        "web": [
+          { "color": "#028938", "type": "" },
+          { "color": "#FCF3B0", "type": "" },
+          { "color": "#F0F0F0", "type": "" }
+        ],
+        "email": [
+          { "color": "#028938", "type": "" },
+          { "color": "#FCF3B0", "type": "" },
+          { "color": "#F0F0F0", "type": "" }
+        ]
+      },
+      {
+        "country": "Philippines",
+        "web": [
+          { "color": "#92288D", "type": "" },
+          { "color": "#F9ECF8", "type": "" },
+          { "color": "#F0F0F0", "type": "" }
+        ],
+        "email": [
+          { "color": "#92288D", "type": "" },
+          { "color": "#F9ECF8", "type": "" },
+          { "color": "#F0F0F0", "type": "" }
+        ]
+      },
+      {
+        "country": "Global",
+        "web": [
+          { "color": "#F5E5D7", "type": "Secondary" },
+          { "color": "#F4EBEE", "type": "Primary Color" }
+        ],
+        "email": [
+          { "color": "#F5E5D7", "type": "Secondary Color" },
+          { "color": "F4EBEE", "type": "Primary Color" }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Avamys",
+    "web": [
+      { "color": "#EDFBFD", "type": "Primary Color" },
+      { "color": "#FFEEE2", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#164194", "type": "" }
+    ],
+    "email": [
+      { "color": "#EDFBFD", "type": "Primary Color" },
+      { "color": "#FFEEE2", "type": "Secondary" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#164194", "type": "" }
+    ]
+  },
+  {
+    "brand": "Avodart",
+    "web": [],
+    "email": [
+      { "color": "#172667", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#DEE8ED", "type": "Surface Color" },
+      { "color": "#CFE4E7", "type": "Surface Color" },
+      { "color": "#29BEC6", "type": "Surface Color" },
+      { "color": "#A6C96D", "type": "Surface Color" },
+      { "color": "#587CBC", "type": "Secondary Color" }
+    ]
+  },
+  {
+    "brand": "Bectroban",
+    "web": [
+      { "color": "#84CAE6", "type": "Primary Color" },
+      { "color": "#F5AEB0", "type": "Secondary Color" },
+      { "color": "#0E4780", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#84CAE6", "type": "Primary Color" },
+      { "color": "#F5AEB0", "type": "Secondary Color" },
+      { "color": "#0E4780", "type": "Accent" }
+    ]
+  },
+  {
+    "brand": "Benlysta",
+    "web": [
+      { "color": "#FDC82F", "type": "Primary Color" },
+      { "color": "#661C78", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#FDC82F", "type": "Surface Color" },
+      { "color": "#661C78", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#CC8ADE", "type": "Surface Color" },
+      { "color": "#FFF7E5", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "Bexero",
+    "web": [
+      { "color": "#00467F", "type": "Primary Color" },
+      { "color": "#E5F4F9", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#68002A", "type": "Primary Color" },
+      { "color": "#F47B20", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#68002A", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#A7A9AC", "type": "Surface Color" },
+      { "color": "#009AC7", "type": "Surface Color" },
+      { "color": "#F47B20", "type": "Surface Color" },
+      { "color": "#58595B", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "Blenrep",
+    "web": [
+      { "color": "#257722", "type": "Primary Color" },
+      { "color": "#EFEBE2", "type": "Secondary Color" },
+      { "color": "#FFE4E0", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#FF6F61", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#CACCCE", "type": "Surface Color" },
+      { "color": "#C9F0C0", "type": "Surface Color" },
+      { "color": "#F9BFBA", "type": "Surface Color" },
+      { "color": "#87E871", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "Blujepa(Gepotidacin)",
+    "web": [
+      { "color": "#009ACE to #1D4289, 45°", "type": "Primary Color" },
+      { "color": "#EFF3FB", "type": "Secondary Color" },
+      { "color": "#FFC100", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#009ACE to #1D4289, 45°", "type": "Primary Color" },
+      { "color": "#EFF3FB", "type": "Secondary Color" },
+      { "color": "#FFC100", "type": "Accent" }
+    ]
+  },
+  {
+    "brand": "Booxtrix",
+    "web": [
+      { "color": "#EEEEEE", "type": "Accent" },
+      { "color": "#F1F9E1", "type": "Secondary Color" },
+      { "color": "#E5DDF3", "type": "Primary Color" }
+    ],
+    "email": [
+      { "color": "#3D2669", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#EEEEEE", "type": "Surface Color" },
+      { "color": "#F1F9E1", "type": "Surface Color" },
+      { "color": "#E5DDF3", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "Breo",
+    "web": [
+      { "color": "#CCDBE8", "type": "Primary Color" },
+      { "color": "#DCF2FB", "type": "Secondary Color" },
+      { "color": "#004B8D", "type": "Accent" },
+      { "color": "#F0F0F0", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#CCDBE8", "type": "Primary Color" },
+      { "color": "#DCF2FB", "type": "Secondary Color" },
+      { "color": "#004B8D", "type": "" }
+    ]
+  },
+  {
+    "brand": "Calpol",
+    "web": [
+      { "color": "#672566", "type": "Primary Color" },
+      { "color": "#C119A4", "type": "Secondary Color" },
+      { "color": "#B7D7F1", "type": "Accent" },
+      { "color": "#DA291C", "type": "Primary Color" },
+      { "color": "#FFCCC8", "type": "Secondary Color" }
+    ],
+    "email": [
+      { "color": "#672566", "type": "" },
+      { "color": "#C119A4", "type": "" },
+      { "color": "#B7D7F1", "type": "" },
+      { "color": "#DA291C", "type": "" },
+      { "color": "#FFCCC8", "type": "" }
+    ]
+  },
+  {
+    "brand": "Carla(Dermovate)",
+    "variants": [
+      {
+        "country": "Global",
+        "web": [
+          { "color": "#F0AB66", "type": "Primary Color" },
+          { "color": "#E67300", "type": "" },
+          { "color": "#FAD866", "type": "Secondary Color" },
+          { "color": "#F6F8F9", "type": "Accent" }
+        ],
+        "email": [
+          { "color": "#F0AB66", "type": "Primary Color" },
+          { "color": "#E67300", "type": "" },
+          { "color": "#FAD866", "type": "Secondary Color" },
+          { "color": "#F6F8F9", "type": "Accent" }
+        ]
+      },
+      {
+        "country": "Caricam",
+        "web": [
+          { "color": "#F2B476", "type": "Primary Color" },
+          { "color": "#00D8D5", "type": "Secondary Color" },
+          { "color": "#516D85", "type": "" },
+          { "color": "#F8F8F9", "type": "Accent" }
+        ],
+        "email": [
+          { "color": "#F2B476", "type": "Primary Color" },
+          { "color": "#00D8D5", "type": "Secondary Color" },
+          { "color": "#516D85", "type": "" },
+          { "color": "#F8F8F9", "type": "Accent" }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Cervarix",
+    "web": [
+      { "color": "#7B0640", "type": "Primary Color" },
+      { "color": "#EF7192", "type": "Secondary Color" },
+      { "color": "#FBDADE", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#7B0640", "type": "Primary Color" },
+      { "color": "#EF7192", "type": "Secondary Color" },
+      { "color": "#FBDADE", "type": "Accent" }
+    ]
+  },
+  {
+    "brand": "Ceftum",
+    "web": [
+      { "color": "#D5F1F4", "type": "Primary Color" },
+      { "color": "#F2E5D2", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#005CA9", "type": "" }
+    ],
+    "email": [
+      { "color": "#D5F1F4", "type": "Primary Color" },
+      { "color": "#F2E5D2", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#005CA9", "type": "" }
+    ]
+  },
+  {
+    "brand": "Cabadex CZX",
+    "web": [
+      { "color": "#C73027", "type": "Primary Color" },
+      { "color": "#F0BF60", "type": "Secondary Color" },
+      { "color": "#FFF0E5", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#C73027", "type": "Primary Color" },
+      { "color": "#F0BF60", "type": "Secondary Color" },
+      { "color": "#FFF0E5", "type": "Accent" }
+    ]
+  },
+  {
+    "brand": "Duac",
+    "web": [
+      { "color": "#E6FBFF", "type": "Primary Color" },
+      { "color": "#F7FFEE", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#0C4DA2", "type": "" }
+    ],
+    "email": [
+      { "color": "#E6FBFF", "type": "Primary Color" },
+      { "color": "#F7FFEE", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#0C4DA2", "type": "" }
+    ]
+  },
+  {
+    "brand": "Duodart",
+    "web": [
+      { "color": "#F2EAED", "type": "Primary Color" },
+      { "color": "#E7E9F2", "type": "Secondary Color" },
+      { "color": "#E5ECEE", "type": "Accent" },
+      { "color": "#AC0033", "type": "" }
+    ],
+    "email": [
+      { "color": "#F2EAED", "type": "Primary Color" },
+      { "color": "#E7E9F2", "type": "Secondary Color" },
+      { "color": "#E5ECEE", "type": "Accent" },
+      { "color": "#AC0033", "type": "" }
+    ]
+  },
+  {
+    "brand": "Duvroq",
+    "web": [
+      { "color": "#0078C8", "type": "Primary Color" },
+      { "color": "#EBF4FB", "type": "Secondary Color" },
+      { "color": "#F6F7F7", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#0078C8", "type": "Primary Color" },
+      { "color": "#EBF4FB", "type": "Secondary Color" },
+      { "color": "#F6F7F7", "type": "Accent" }
+    ]
+  },
+  {
+    "brand": "Engerix B",
+    "web": [
+      { "color": "#E6EDF5", "type": "Primary Color" },
+      { "color": "#E6F2F1", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#004C98", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#E6EDF5", "type": "Primary Color" },
+      { "color": "#E6F2F1", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#004C98", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Fendrix",
+    "country": "Spain",
+    "web": [
+      { "color": "#B61826", "type": "Primary Color" },
+      { "color": "#C7C0B1", "type": "Secondary Color" },
+      { "color": "#FAFAF8", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#B61826", "type": "Primary Color" },
+      { "color": "#C7C0B1", "type": "Secondary Color" },
+      { "color": "#FAFAF8", "type": "Accent" }
+    ]
+  },
+  {
+    "brand": "Flixotide",
+    "web": [
+      { "color": "#EBCAB9", "type": "Primary Color" },
+      { "color": "#E5DDD9", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#F37030", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#EBCAB9", "type": "Primary Color" },
+      { "color": "#E5DDD9", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#F37030", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Fluarix",
+    "web": [
+      { "color": "#00853F", "type": "Primary Color" },
+      { "color": "#EEB111,#636466", "type": "Secondary Color" },
+      { "color": "#E5DDD9,#B4D9C1", "type": "Accent" },
+      { "color": "#00853F,8A199C", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#00853F", "type": "Primary Color" },
+      { "color": "#EEB111,#636466", "type": "Secondary Color" },
+      { "color": "#E5DDD9,#B4D9C1", "type": "Accent" },
+      { "color": "#00853F,8A199C", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Fluzactal",
+    "country": "Mexico",
+    "web": [
+      { "color": "#630368", "type": "Primary Color" },
+      { "color": "#BA24B4", "type": "Secondary Color" },
+      { "color": "#EEACEE", "type": "Accent" }
+    ],
+    "email": [
+      { "color": "#630368", "type": "Primary Color" },
+      { "color": "#BA24B4", "type": "Secondary Color" },
+      { "color": "#EEACEE", "type": "Accent" }
+    ]
+  },
+  {
+    "brand": "GSKpro Nurse Portal",
+    "country": "Spain",
+    "web": [
+      { "color": "#4B69B2", "type": "Primary Color" },
+      { "color": "#EBF0FC", "type": "Secondary Color" },
+      { "color": "#CED8F7", "type": "Accent" },
+      { "color": "#4B69B2", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#4B69B2", "type": "Primary Color" },
+      { "color": "#EBF0FC", "type": "Secondary Color" },
+      { "color": "#CED8F7", "type": "Accent" },
+      { "color": "#4B69B2", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Havrix",
+    "variants": [
+      {
+        "version": "V2",
+        "web": [
+          { "color": "#FAEA27", "type": "Primary Color" },
+          { "color": "#00A0B0", "type": "Secondary Color" },
+          { "color": "#F0F0F0", "type": "Accent" },
+          { "color": "#00A0B0", "type": "Button" }
+        ],
+        "email": [
+          { "color": "#FAEA27", "type": "Primary Color" },
+          { "color": "#00A0B0", "type": "Secondary Color" },
+          { "color": "#F0F0F0", "type": "Accent" },
+          { "color": "#00A0B0", "type": "Button" }
+        ]
+      },
+      {
+        "country": "Australia",
+        "web": [
+          { "color": "#767676", "type": "Primary Color" },
+          { "color": "#FBBB47", "type": "Secondary Color" },
+          { "color": "#E1E1E1", "type": "Accent" },
+          { "color": "#7958BF", "type": "Button" }
+        ],
+        "email": [
+          { "color": "#767676", "type": "Primary Color" },
+          { "color": "#FBBB47", "type": "Secondary Color" },
+          { "color": "#E1E1E1", "type": "Accent" },
+          { "color": "#7958BF", "type": "Button" }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Hiberix",
+    "country": "Spain",
+    "web": [
+      { "color": "#008388", "type": "Primary Color" },
+      { "color": "#C5EEF0", "type": "Secondary Color" },
+      { "color": "#FAFAF8", "type": "Accent" },
+      { "color": "#008388", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#008388", "type": "Primary Color" },
+      { "color": "#C5EEF0", "type": "Secondary Color" },
+      { "color": "#FAFAF8", "type": "Accent" },
+      { "color": "#008388", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Infanrix",
+    "web": [
+      { "color": "#008DBD", "type": "Primary Color" },
+      { "color": "#FCF1E6", "type": "Secondary Color" },
+      { "color": "#E4F3F8", "type": "Accent" },
+      { "color": "#017FA8", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#008DBD", "type": "Primary Color" },
+      { "color": "#FCF1E6", "type": "Secondary Color" },
+      { "color": "#E4F3F8", "type": "Accent" },
+      { "color": "#017FA8", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Jamperli",
+    "web": [
+      { "color": "#E7014C", "type": "Primary Color" },
+      { "color": "#007EA7", "type": "Secondary Color" },
+      { "color": "#CCE5EC", "type": "Accent" },
+      { "color": "#E7014C", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#E7004C", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#B0B3B2", "type": "Surface Color" },
+      { "color": "#93CCDF", "type": "Surface Color" },
+      { "color": "#EF93B1", "type": "Surface Color" },
+      { "color": "#008FBE", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "Keppra",
+    "web": [
+      { "color": "#1E2A4", "type": "Primary Color" },
+      { "color": "#DEEBF4", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#FF8300", "type": "Button" },
+      { "color": "#ED8F26", "type": "Primary Color" }
+    ],
+    "email": [
+      { "color": "#1E2A4", "type": "Primary Color" },
+      { "color": "#DEEBF4", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#FF8300", "type": "Button" },
+      { "color": "#ED8F26", "type": "Primary Color" }
+    ]
+  },
+  {
+    "brand": "Lamictal",
+    "web": [
+      { "color": "#FFE893", "type": "Primary Color" },
+      { "color": "#E1F0FF", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#004B96", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#FFE893", "type": "Primary Color" },
+      { "color": "#E1F0FF", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#004B96", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Manveo",
+    "web": [
+      { "color": "#CF0360", "type": "Primary Color" },
+      { "color": "#F6EDE6", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#6B3A78", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#CF0360", "type": "Primary Color" },
+      { "color": "#F6EDE6", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#6B3A78", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Myelofibrosis",
+    "web": [
+      { "color": "#333333", "type": "Primary Color" },
+      { "color": "#666666", "type": "Secondary Color" },
+      { "color": "#F9C410", "type": "Accent" },
+      { "color": "#333333", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#333333", "type": "Primary Color" },
+      { "color": "#666666", "type": "Surface Color" },
+      { "color": "#F9C410", "type": "Surface Color" },
+      { "color": "#333333", "type": "Surface Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "Neosproin",
+    "web": [
+      { "color": "#004287", "type": "Primary Color" },
+      { "color": "#007EBB", "type": "Secondary Color" },
+      { "color": "#FAFAF8", "type": "Accent" },
+      { "color": "#004287", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#004287", "type": "Primary Color" },
+      { "color": "#007EBB", "type": "Secondary Color" },
+      { "color": "#FAFAF8", "type": "Accent" },
+      { "color": "#004287", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Nucala",
+    "web": [
+      { "color": "#6D0012, #84BD00", "type": "Primary Color" },
+      { "color": "#F7DBDE,#EEF0F2", "type": "Secondary Color" },
+      { "color": "#EEF0F2,#C83239", "type": "Accent" },
+      { "color": "#6B0012,#C83239", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#6D0012", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#EFF0F2", "type": "Surface Color" },
+      { "color": "#F7DBDE", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "Omjjara",
+    "web": [
+      { "color": "#280071", "type": "Primary Color" },
+      { "color": "#00FF96", "type": "Secondary Color" },
+      { "color": "#E5E5E5", "type": "Accent" },
+      { "color": "#280071", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#280071", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#E5E5E5", "type": "Surface Color" },
+      { "color": "#FB637E", "type": "Surface Color" },
+      { "color": "#00FF96", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "Paxil",
+    "web": [
+      { "color": "#FEF8DB", "type": "Primary Color" },
+      { "color": "#DAF3F2", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#1DB5AD", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#FEF8DB", "type": "Primary Color" },
+      { "color": "#DAF3F2", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#1DB5AD", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Physiogel",
+    "web": [
+      { "color": "#E08E9D", "type": "Primary Color" },
+      { "color": "#EAEFFC to #77ADE7", "type": "Secondary Color" },
+      { "color": "#DCDDE1", "type": "Accent" },
+      { "color": "#015FA7", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#E08E9D", "type": "Primary Color" },
+      { "color": "#EAEFFC to #77ADE7", "type": "Secondary Color" },
+      { "color": "#DCDDE1", "type": "Accent" },
+      { "color": "#015FA7", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Priorix",
+    "web": [
+      { "color": "#CDDDE8", "type": "Primary Color" },
+      { "color": "#FAFAF8", "type": "Accent" },
+      { "color": "#04538C", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#CDDDE8", "type": "Primary Color" },
+      { "color": "#FAFAF8", "type": "Accent" },
+      { "color": "#04538C", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Relvar",
+    "web": [
+      { "color": "#747476", "type": "Primary Color" },
+      { "color": "#F9EEB8", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#004B8D", "type": "Button" },
+      { "color": "#FFE04C", "type": "Navigation" }
+    ],
+    "email": [
+      { "color": "#004B8D", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#DCE4EA", "type": "Surface Color" },
+      { "color": "#F7EEC4", "type": "Surface Color" },
+      { "color": "#A1A1A4", "type": "Surface Color" },
+      { "color": "#FFD400", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "Rotarix",
+    "web": [
+      { "color": "#477F87", "type": "Primary Color" },
+      { "color": "#FFE8E7", "type": "Secondary Color" },
+      { "color": "#E9F0EF", "type": "Accent" },
+      { "color": "#E45D63", "type": "Navigation" },
+      { "color": "#477F87", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#477F87", "type": "Primary Color" },
+      { "color": "#FFE8E7", "type": "Secondary Color" },
+      { "color": "#E9F0EF", "type": "Accent" },
+      { "color": "#E45D63", "type": "Navigation" },
+      { "color": "#477F87", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Seretide",
+    "web": [
+      { "color": "#CFC0DD", "type": "Primary Color" },
+      { "color": "#E9E5ED", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#5D2E8E", "type": "Button" },
+      { "color": "#5D2E8E", "type": "Navigation" }
+    ],
+    "email": [
+      { "color": "#CFC0DD", "type": "" },
+      { "color": "#E9E5ED", "type": "" },
+      { "color": "#F0F0F0", "type": "" },
+      { "color": "#5D2E8E", "type": "" },
+      { "color": "#5D2E8E", "type": "" }
+    ]
+  },
+  {
+    "brand": "Shingrix",
+    "variants": [
+      {
+        "country": "Global",
+        "web": [
+          { "color": "#9E0B0F", "type": "Primary Color" },
+          { "color": "#E6E7E8", "type": "Secondary Color" },
+          { "color": "#828384", "type": "Accent" },
+          { "color": "#9E0B0F", "type": "Navigation" },
+          { "color": "#9E0B0F", "type": "Button" }
+        ],
+        "email": [
+          { "color": "#9E0B0F", "type": "Primary Color" },
+          { "color": "#FFFFFF", "type": "Surface Color" },
+          { "color": "#E6E7E8", "type": "Surface Color" },
+          { "color": "#828384", "type": "Surface Color" }
+        ]
+      },
+      {
+        "country": "Japan",
+        "web": [
+          { "color": "#17294C", "type": "Primary Color" },
+          { "color": "#92713E", "type": "Secondary Color" },
+          { "color": "#EAE0CE", "type": "Accent" },
+          { "color": "#17294C", "type": "Navigation" },
+          { "color": "#17294C", "type": "Button" }
+        ],
+        "email": []
+      }
+    ]
+  },
+  {
+    "brand": "SimpliFlu",
+    "web": [
+      { "color": "#77D0C8", "type": "Primary Color" },
+      { "color": "#FFB051", "type": "Secondary Color" },
+      { "color": "#FAFAF8", "type": "Accent" },
+      { "color": "#2D827B", "type": "Navigation" },
+      { "color": "#2D827B", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#77D0C8", "type": "Primary Color" },
+      { "color": "#FFB051", "type": "Secondary Color" },
+      { "color": "#FAFAF8", "type": "Accent" },
+      { "color": "#2D827B", "type": "Navigation" },
+      { "color": "#2D827B", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Synflorix",
+    "web": [
+      { "color": "#345EDB", "type": "Primary Color" },
+      { "color": "#345EDB to #1F3883, 45°", "type": "Secondary Color" },
+      { "color": "#EBF9FF", "type": "Accent" },
+      { "color": "#345EDB", "type": "Navigation" },
+      { "color": "#345EDB", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#345EDB", "type": "Primary Color" },
+      { "color": "#345EDB to #1F3883, 45°", "type": "Secondary Color" },
+      { "color": "#EBF9FF", "type": "Accent" },
+      { "color": "#345EDB", "type": "Navigation" },
+      { "color": "#345EDB", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Trelegy",
+    "variants": [
+      {
+        "version": "Global",
+        "web": [
+          { "color": "#061F5C", "type": "Primary Color" },
+          { "color": "#415BD9", "type": "Secondary Color" },
+          { "color": "#E4E4E4", "type": "Accent" },
+          { "color": "#061F5C", "type": "Navigation" },
+          { "color": "#061F5C", "type": "Button" }
+        ],
+        "email": [
+          { "color": "#061F5C", "type": "Primary Color" },
+          { "color": "#FFFFFF", "type": "Surface Color" },
+          { "color": "#FFFFDC", "type": "Surface Color" },
+          { "color": "#D1BAA8", "type": "Surface Color" },
+          { "color": "#415BD9", "type": "Surface Color" },
+          { "color": "#4C4D4E", "type": "Surface Color" }
+        ]
+      },
+      {
+        "version": "Trelegy(Asthma)",
+        "web": [
+          { "color": "#1D6774", "type": "Primary Color" },
+          { "color": "#B8D7D9", "type": "Secondary Color" },
+          { "color": "#E9EEF0", "type": "Accent" },
+          { "color": "#122749", "type": "Navigation" },
+          { "color": "#1D6774", "type": "Button" }
+        ],
+        "email": [
+          { "color": "#1D6674", "type": "Primary Color" },
+          { "color": "#FFFFFF", "type": "Surface Color" },
+          { "color": "#E9EEF0", "type": "Surface Color" },
+          { "color": "#B8D7D9", "type": "Surface Color" }
+        ]
+      },
+      {
+        "version": "Trelegy(COPD)",
+        "web": [
+          { "color": "#061F5C", "type": "Primary Color" },
+          { "color": "#CDD2DE", "type": "Secondary Color" },
+          { "color": "#F3ED38", "type": "Accent" },
+          { "color": "#061F5C", "type": "Navigation" },
+          { "color": "#061F5C", "type": "Button" }
+        ],
+        "email": [
+          { "color": "#061F5C", "type": "Primary Color" },
+          { "color": "#FFFFFF", "type": "Surface Color" },
+          { "color": "#F3ED38", "type": "Surface Color" },
+          { "color": "#CDD2DE", "type": "Surface Color" }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "Trelegy Ellipta",
+    "country": "Philippines",
+    "web": [
+      { "color": "#4D830B", "type": "Primary Color" },
+      { "color": "#D5BCAC", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#4D830B", "type": "Navigation" },
+      { "color": "#4D830B", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#4D830B", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#F0F0F0", "type": "Primary Color" },
+      { "color": "#D5BCAC", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "Twinrix",
+    "web": [
+      { "color": "#00756B", "type": "Primary Color" },
+      { "color": "#2F4985", "type": "Secondary Color" },
+      { "color": "#FAFAFA", "type": "Accent" },
+      { "color": "#00756B", "type": "Navigation" },
+      { "color": "#00756B", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#061F5C", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#FAFAFA", "type": "Primary Color" },
+      { "color": "#E5F1F0", "type": "Surface Color" },
+      { "color": "#FED41D", "type": "Primary Color" },
+      { "color": "#2F4985", "type": "Surface Color" }
+    ]
+  },
+  {
+    "brand": "T-Bact",
+    "web": [
+      { "color": "#2F2F7E", "type": "Primary Color" },
+      { "color": "#E1E8FE", "type": "Secondary Color" },
+      { "color": "#FFE7FE", "type": "Accent" },
+      { "color": "#2F2F7E", "type": "Navigation" },
+      { "color": "#2F2F7E", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#2F2F7E", "type": "Primary Color" },
+      { "color": "#E1E8FE", "type": "Secondary Color" },
+      { "color": "#FFE7FE", "type": "Accent" },
+      { "color": "#2F2F7E", "type": "Navigation" },
+      { "color": "#2F2F7E", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Toctino",
+    "web": [
+      { "color": "#214996", "type": "Primary Color" },
+      { "color": "#FBAA27", "type": "Secondary Color" },
+      { "color": "#EEF0F2", "type": "Accent" },
+      { "color": "#3178C8", "type": "Navigation" },
+      { "color": "#3178C8", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#214996", "type": "Primary Color" },
+      { "color": "#FBAA27", "type": "Secondary Color" },
+      { "color": "#EEF0F2", "type": "Accent" },
+      { "color": "#3178C8", "type": "Navigation" },
+      { "color": "#3178C8", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Varilrix",
+    "web": [
+      { "color": "#00827A", "type": "Primary Color" },
+      { "color": "#FCF1EE", "type": "Secondary Color" },
+      { "color": "#E5F2F1", "type": "Accent" },
+      { "color": "#00827A", "type": "Navigation" },
+      { "color": "#00827A", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#00827A", "type": "Primary Color" },
+      { "color": "#FCF1EE", "type": "Secondary Color" },
+      { "color": "#E5F2F1", "type": "Accent" },
+      { "color": "#00827A", "type": "Navigation" },
+      { "color": "#00827A", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Ventolin",
+    "web": [
+      { "color": "#C8DEDF", "type": "Primary Color" },
+      { "color": "#1F969D", "type": "Secondary Color" },
+      { "color": "#EEEEEE", "type": "Accent" },
+      { "color": "#1F969D", "type": "Navigation" },
+      { "color": "#1F969D", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#C8DEDF", "type": "Primary Color" },
+      { "color": "#1F969D", "type": "Secondary Color" },
+      { "color": "#EEEEEE", "type": "Accent" },
+      { "color": "#1F969D", "type": "Navigation" },
+      { "color": "#1F969D", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "VIR",
+    "web": [
+      { "color": "#253646", "type": "Primary Color" },
+      { "color": "#E2ECEE", "type": "Secondary Color" },
+      { "color": "#FAFAF8", "type": "Accent" },
+      { "color": "#253646", "type": "Navigation" },
+      { "color": "#253646", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#253646", "type": "Primary Color" },
+      { "color": "#E2ECEE", "type": "Secondary Color" },
+      { "color": "#FAFAF8", "type": "Accent" },
+      { "color": "#253646", "type": "Navigation" },
+      { "color": "#253646", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Volibrix",
+    "web": [
+      { "color": "#7C1A78", "type": "Primary Color" },
+      { "color": "#F3E6FE", "type": "Secondary Color" },
+      { "color": "#EAEAEA", "type": "Accent" },
+      { "color": "#7C1A78", "type": "Navigation" },
+      { "color": "#7C1A78", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#7C1A78", "type": "Primary Color" },
+      { "color": "#F3E6FE", "type": "Secondary Color" },
+      { "color": "#EAEAEA", "type": "Accent" },
+      { "color": "#7C1A78", "type": "Navigation" },
+      { "color": "#7C1A78", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Wellburtin",
+    "web": [
+      { "color": "#FFE363", "type": "Primary Color" },
+      { "color": "#E3F0FA", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#0066B0", "type": "Navigation" },
+      { "color": "#0066B0", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#FFE363", "type": "Primary Color" },
+      { "color": "#E3F0FA", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#0066B0", "type": "Navigation" },
+      { "color": "#0066B0", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Xyzal",
+    "web": [
+      { "color": "#01548C", "type": "Primary Color" },
+      { "color": "#FFBF59", "type": "Secondary Color" },
+      { "color": "#E3E6E8", "type": "Accent" },
+      { "color": "#01548C", "type": "Navigation" },
+      { "color": "#01548C", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#01548C", "type": "Primary Color" },
+      { "color": "#FFBF59", "type": "Secondary Color" },
+      { "color": "#E3E6E8", "type": "Accent" },
+      { "color": "#01548C", "type": "Navigation" },
+      { "color": "#01548C", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Zejula",
+    "web": [
+      { "color": "#25205E", "type": "Primary Color" },
+      { "color": "#E5F6F9", "type": "Secondary Color" },
+      { "color": "#FEE7EA", "type": "Accent" },
+      { "color": "#25205E", "type": "Navigation" },
+      { "color": "#25205E", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#25205E", "type": "Primary Color" },
+      { "color": "#E5F6F9", "type": "Secondary Color" },
+      { "color": "#FEE7EA", "type": "Accent" },
+      { "color": "#25205E", "type": "Navigation" },
+      { "color": "#25205E", "type": "Button" },
+      { "color": "#D5F1F4", "type": "Primary Color" }
+    ]
+  },
+  {
+    "brand": "Zinnat",
+    "web": [
+      { "color": "#D5F1F4", "type": "Primary Color" },
+      { "color": "#F2E5D2", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#005CA9", "type": "Navigation" },
+      { "color": "#005CA9", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#D5F1F4", "type": "Primary Color" },
+      { "color": "#F2E5D2", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#005CA9", "type": "Navigation" },
+      { "color": "#005CA9", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Zyntabac",
+    "web": [
+      { "color": "#024886", "type": "Primary Color" },
+      { "color": "#009BC1(Only for bg witout text)", "type": "Secondary Color" },
+      { "color": "#DAF1F6", "type": "Accent" },
+      { "color": "#024886", "type": "Navigation" },
+      { "color": "#024886", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#009BC1(Only for bg witout text)", "type": "Primary Color" },
+      { "color": "#DAF1F6", "type": "Secondary Color" },
+      { "color": "#024886", "type": "Accent" },
+      { "color": "#024886", "type": "Navigation" }
+    ]
+  },
+  {
+    "brand": "Zyban",
+    "web": [
+      { "color": "#0B406C", "type": "Primary Color" },
+      { "color": "#AC4398", "type": "Secondary Color" },
+      { "color": "#FBDD3D", "type": "Accent" },
+      { "color": "#AC4398", "type": "Navigation" },
+      { "color": "#AC4398", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#0B406C", "type": "Primary Color" },
+      { "color": "#AC4398", "type": "Secondary Color" },
+      { "color": "#FBDD3D", "type": "Accent" },
+      { "color": "#AC4398", "type": "Navigation" },
+      { "color": "#AC4398", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Zyrtec",
+    "web": [
+      { "color": "#3D518C", "type": "Primary Color" },
+      { "color": "#F2F2F2 to #C1E0F5, 45°", "type": "Secondary Color" },
+      { "color": "#F6FBFE", "type": "Accent" },
+      { "color": "#3D518C", "type": "Navigation" },
+      { "color": "#3D518C", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#3D518C", "type": "Primary Color" },
+      { "color": "#F2F2F2 to #C1E0F5, 45°", "type": "Secondary Color" },
+      { "color": "#F6FBFE", "type": "Accent" },
+      { "color": "#3D518C", "type": "Navigation" },
+      { "color": "#3D518C", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Apretude",
+    "web": [
+      { "color": "#5B2164", "type": "Primary Color" },
+      { "color": "#686A01", "type": "Secondary Color" },
+      { "color": "#F6CEA6", "type": "Accent" },
+      { "color": "#5B2164", "type": "Navigation" },
+      { "color": "#5B2164", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#5B2164", "type": "Primary Color" },
+      { "color": "#686A01", "type": "Secondary Color" },
+      { "color": "#F6CEA6", "type": "Accent" },
+      { "color": "#5B2164", "type": "Navigation" },
+      { "color": "#5B2164", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Dovato",
+    "web": [
+      { "color": "#DB146B", "type": "Primary Color" },
+      { "color": "#612166", "type": "Secondary Color" },
+      { "color": "#FEF6F9", "type": "Accent" },
+      { "color": "#612166", "type": "Navigation" },
+      { "color": "#DB146B", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#DB146B", "type": "Primary Color" },
+      { "color": "#612166", "type": "Secondary Color" },
+      { "color": "#FEF6F9", "type": "Accent" },
+      { "color": "#612166", "type": "Navigation" },
+      { "color": "#DB146B", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Vocabria + Rekambys",
+    "web": [
+      { "color": "#4B667C", "type": "Primary Color" },
+      { "color": "#F0AB66", "type": "Secondary Color" },
+      { "color": "#FAE3CC", "type": "Accent" },
+      { "color": "#4B667C", "type": "Navigation" },
+      { "color": "#4B667C", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#4B667C", "type": "Primary Color" },
+      { "color": "#F0AB66", "type": "Secondary Color" },
+      { "color": "#FAE3CC", "type": "Accent" },
+      { "color": "#4B667C", "type": "Navigation" },
+      { "color": "#4B667C", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "Priorix Tetra",
+    "web": [
+      { "color": "#2082A7", "type": "Primary Color" },
+      { "color": "#F8C785", "type": "Secondary Color" },
+      { "color": "#E5EDF2", "type": "Accent" },
+      { "color": "#01537D", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#2082A7", "type": "Primary Color" },
+      { "color": "#F8C785", "type": "Secondary Color" },
+      { "color": "#E5EDF2", "type": "Accent" },
+      { "color": "#01537D", "type": "Button" }
+    ]
+  },
+  {
+    "brand": "GSK",
+    "web": [
+      { "color": "#F36633", "type": "" },
+      { "color": "#F0EFED", "type": "" },
+      { "color": "#E6E6E6", "type": "" }
+    ]
+
+  }
+],
+"metadata": {
+  "source": "prashant.xlsx",
+  "created": "2025-12-23",
+  "description": "GSK Brand Color Palettes for Web and Email Channels"
+}
+}
