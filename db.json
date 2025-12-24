@@ -1,6 +1,15 @@
 {
+   "users": [
+      {
+        "id": 1,
+        "email": "prashant.gunjal@vml.com",
+        "pass" : "prashant.gunjal"
+      }
+    ],
+
 "brands": [
   {
+    "id": 1,
     "brand": "Anoro",
     "web": [
       { "color": "#DEDFE5", "type": "Secondary Color" },
@@ -15,6 +24,7 @@
     ]
   },
   {
+    "id": 2,
     "brand": "AREXVY",
     "web": [
       { "color": "#592C82", "type": "Primary Color" },
@@ -30,6 +40,7 @@
     ]
   },
   {
+    "id": 3,
     "brand": "Augmentin",
     "variants": [
       {
@@ -85,6 +96,7 @@
     ]
   },
   {
+    "id": 4,
     "brand": "Avamys",
     "web": [
       { "color": "#EDFBFD", "type": "Primary Color" },
@@ -100,6 +112,7 @@
     ]
   },
   {
+    "id": 5,
     "brand": "Avodart",
     "web": [],
     "email": [
@@ -113,6 +126,7 @@
     ]
   },
   {
+    "id": 6,
     "brand": "Bectroban",
     "web": [
       { "color": "#84CAE6", "type": "Primary Color" },
@@ -126,6 +140,7 @@
     ]
   },
   {
+    "id": 7,
     "brand": "Benlysta",
     "web": [
       { "color": "#FDC82F", "type": "Primary Color" },
@@ -141,6 +156,7 @@
     ]
   },
   {
+    "id": 8,
     "brand": "Bexero",
     "web": [
       { "color": "#00467F", "type": "Primary Color" },
@@ -160,6 +176,7 @@
     ]
   },
   {
+    "id": 9,
     "brand": "Blenrep",
     "web": [
       { "color": "#257722", "type": "Primary Color" },
@@ -176,6 +193,7 @@
     ]
   },
   {
+    "id": 10,
     "brand": "Blujepa(Gepotidacin)",
     "web": [
       { "color": "#009ACE to #1D4289, 45°", "type": "Primary Color" },
@@ -189,6 +207,7 @@
     ]
   },
   {
+    "id": 11,
     "brand": "Booxtrix",
     "web": [
       { "color": "#EEEEEE", "type": "Accent" },
@@ -204,6 +223,7 @@
     ]
   },
   {
+    "id": 12,
     "brand": "Breo",
     "web": [
       { "color": "#CCDBE8", "type": "Primary Color" },
@@ -218,6 +238,7 @@
     ]
   },
   {
+    "id": 13,
     "brand": "Calpol",
     "web": [
       { "color": "#672566", "type": "Primary Color" },
@@ -235,6 +256,7 @@
     ]
   },
   {
+    "id": 14,
     "brand": "Carla(Dermovate)",
     "variants": [
       {
@@ -270,6 +292,7 @@
     ]
   },
   {
+    "id": 15,
     "brand": "Cervarix",
     "web": [
       { "color": "#7B0640", "type": "Primary Color" },
@@ -283,6 +306,7 @@
     ]
   },
   {
+    "id": 16,
     "brand": "Ceftum",
     "web": [
       { "color": "#D5F1F4", "type": "Primary Color" },
@@ -298,6 +322,7 @@
     ]
   },
   {
+    "id": 17,
     "brand": "Cabadex CZX",
     "web": [
       { "color": "#C73027", "type": "Primary Color" },
@@ -311,6 +336,7 @@
     ]
   },
   {
+    "id": 18,
     "brand": "Duac",
     "web": [
       { "color": "#E6FBFF", "type": "Primary Color" },
@@ -326,6 +352,7 @@
     ]
   },
   {
+    "id": 19,
     "brand": "Duodart",
     "web": [
       { "color": "#F2EAED", "type": "Primary Color" },
@@ -341,6 +368,7 @@
     ]
   },
   {
+    "id": 20,
     "brand": "Duvroq",
     "web": [
       { "color": "#0078C8", "type": "Primary Color" },
@@ -354,6 +382,7 @@
     ]
   },
   {
+    "id": 21,
     "brand": "Engerix B",
     "web": [
       { "color": "#E6EDF5", "type": "Primary Color" },
@@ -369,6 +398,7 @@
     ]
   },
   {
+    "id": 22,
     "brand": "Fendrix",
     "country": "Spain",
     "web": [
@@ -383,6 +413,7 @@
     ]
   },
   {
+    "id": 23,
     "brand": "Flixotide",
     "web": [
       { "color": "#EBCAB9", "type": "Primary Color" },
@@ -398,6 +429,7 @@
     ]
   },
   {
+    "id": 24,
     "brand": "Fluarix",
     "web": [
       { "color": "#00853F", "type": "Primary Color" },
@@ -413,6 +445,7 @@
     ]
   },
   {
+    "id": 25,
     "brand": "Fluzactal",
     "country": "Mexico",
     "web": [
@@ -427,6 +460,7 @@
     ]
   },
   {
+    "id": 26,
     "brand": "GSKpro Nurse Portal",
     "country": "Spain",
     "web": [
@@ -443,6 +477,7 @@
     ]
   },
   {
+    "id": 27,
     "brand": "Havrix",
     "variants": [
       {
@@ -478,6 +513,7 @@
     ]
   },
   {
+    "id": 28,
     "brand": "Hiberix",
     "country": "Spain",
     "web": [
@@ -494,6 +530,7 @@
     ]
   },
   {
+    "id": 29,
     "brand": "Infanrix",
     "web": [
       { "color": "#008DBD", "type": "Primary Color" },
@@ -509,6 +546,7 @@
     ]
   },
   {
+    "id": 30,
     "brand": "Jamperli",
     "web": [
       { "color": "#E7014C", "type": "Primary Color" },
@@ -526,6 +564,7 @@
     ]
   },
   {
+    "id": 31,
     "brand": "Keppra",
     "web": [
       { "color": "#1E2A4", "type": "Primary Color" },
@@ -543,6 +582,7 @@
     ]
   },
   {
+    "id": 32,
     "brand": "Lamictal",
     "web": [
       { "color": "#FFE893", "type": "Primary Color" },
@@ -558,6 +598,7 @@
     ]
   },
   {
+    "id": 33,
     "brand": "Manveo",
     "web": [
       { "color": "#CF0360", "type": "Primary Color" },
@@ -573,6 +614,7 @@
     ]
   },
   {
+    "id": 34,
     "brand": "Myelofibrosis",
     "web": [
       { "color": "#333333", "type": "Primary Color" },
@@ -589,6 +631,7 @@
     ]
   },
   {
+    "id": 35,
     "brand": "Neosproin",
     "web": [
       { "color": "#004287", "type": "Primary Color" },
@@ -604,6 +647,7 @@
     ]
   },
   {
+    "id": 36,
     "brand": "Nucala",
     "web": [
       { "color": "#6D0012, #84BD00", "type": "Primary Color" },
@@ -619,6 +663,7 @@
     ]
   },
   {
+    "id": 37,
     "brand": "Omjjara",
     "web": [
       { "color": "#280071", "type": "Primary Color" },
@@ -635,6 +680,7 @@
     ]
   },
   {
+    "id": 38,
     "brand": "Paxil",
     "web": [
       { "color": "#FEF8DB", "type": "Primary Color" },
@@ -650,6 +696,7 @@
     ]
   },
   {
+    "id": 39,
     "brand": "Physiogel",
     "web": [
       { "color": "#E08E9D", "type": "Primary Color" },
@@ -665,6 +712,7 @@
     ]
   },
   {
+    "id": 40,
     "brand": "Priorix",
     "web": [
       { "color": "#CDDDE8", "type": "Primary Color" },
@@ -678,6 +726,7 @@
     ]
   },
   {
+    "id": 41,
     "brand": "Relvar",
     "web": [
       { "color": "#747476", "type": "Primary Color" },
@@ -696,6 +745,7 @@
     ]
   },
   {
+    "id": 42,
     "brand": "Rotarix",
     "web": [
       { "color": "#477F87", "type": "Primary Color" },
@@ -713,6 +763,7 @@
     ]
   },
   {
+    "id": 43,
     "brand": "Seretide",
     "web": [
       { "color": "#CFC0DD", "type": "Primary Color" },
@@ -730,6 +781,7 @@
     ]
   },
   {
+    "id": 44,
     "brand": "Shingrix",
     "variants": [
       {
@@ -762,6 +814,7 @@
     ]
   },
   {
+    "id":45,
     "brand": "SimpliFlu",
     "web": [
       { "color": "#77D0C8", "type": "Primary Color" },
@@ -779,6 +832,7 @@
     ]
   },
   {
+    "id": 46,
     "brand": "Synflorix",
     "web": [
       { "color": "#345EDB", "type": "Primary Color" },
@@ -796,6 +850,7 @@
     ]
   },
   {
+    "id": 47,
     "brand": "Trelegy",
     "variants": [
       {
@@ -851,6 +906,7 @@
     ]
   },
   {
+    "id": 48,
     "brand": "Trelegy Ellipta",
     "country": "Philippines",
     "web": [
@@ -868,6 +924,7 @@
     ]
   },
   {
+    "id": 49,
     "brand": "Twinrix",
     "web": [
       { "color": "#00756B", "type": "Primary Color" },
@@ -886,6 +943,7 @@
     ]
   },
   {
+    "id": 50,
     "brand": "T-Bact",
     "web": [
       { "color": "#2F2F7E", "type": "Primary Color" },
@@ -903,6 +961,7 @@
     ]
   },
   {
+    "id": 51,
     "brand": "Toctino",
     "web": [
       { "color": "#214996", "type": "Primary Color" },
@@ -920,6 +979,7 @@
     ]
   },
   {
+    "id": 52,
     "brand": "Varilrix",
     "web": [
       { "color": "#00827A", "type": "Primary Color" },
@@ -937,6 +997,7 @@
     ]
   },
   {
+    "id": 53,
     "brand": "Ventolin",
     "web": [
       { "color": "#C8DEDF", "type": "Primary Color" },
@@ -954,6 +1015,7 @@
     ]
   },
   {
+    "id": 54,
     "brand": "VIR",
     "web": [
       { "color": "#253646", "type": "Primary Color" },
@@ -971,6 +1033,7 @@
     ]
   },
   {
+    "id": 55,
     "brand": "Volibrix",
     "web": [
       { "color": "#7C1A78", "type": "Primary Color" },
@@ -988,6 +1051,7 @@
     ]
   },
   {
+    "id": 56,
     "brand": "Wellburtin",
     "web": [
       { "color": "#FFE363", "type": "Primary Color" },
@@ -1005,6 +1069,7 @@
     ]
   },
   {
+    "id": 57,
     "brand": "Xyzal",
     "web": [
       { "color": "#01548C", "type": "Primary Color" },
@@ -1022,6 +1087,7 @@
     ]
   },
   {
+    "id": 58,
     "brand": "Zejula",
     "web": [
       { "color": "#25205E", "type": "Primary Color" },
@@ -1040,6 +1106,7 @@
     ]
   },
   {
+    "id": 59,
     "brand": "Zinnat",
     "web": [
       { "color": "#D5F1F4", "type": "Primary Color" },
@@ -1057,6 +1124,7 @@
     ]
   },
   {
+    "id": 60,
     "brand": "Zyntabac",
     "web": [
       { "color": "#024886", "type": "Primary Color" },
@@ -1073,6 +1141,7 @@
     ]
   },
   {
+    "id": 61,
     "brand": "Zyban",
     "web": [
       { "color": "#0B406C", "type": "Primary Color" },
@@ -1090,6 +1159,7 @@
     ]
   },
   {
+    "id": 62,
     "brand": "Zyrtec",
     "web": [
       { "color": "#3D518C", "type": "Primary Color" },
@@ -1107,6 +1177,7 @@
     ]
   },
   {
+    "id": 63,
     "brand": "Apretude",
     "web": [
       { "color": "#5B2164", "type": "Primary Color" },
@@ -1124,6 +1195,7 @@
     ]
   },
   {
+    "id": 64,
     "brand": "Dovato",
     "web": [
       { "color": "#DB146B", "type": "Primary Color" },
@@ -1141,6 +1213,7 @@
     ]
   },
   {
+    "id": 65,
     "brand": "Vocabria + Rekambys",
     "web": [
       { "color": "#4B667C", "type": "Primary Color" },
@@ -1158,6 +1231,7 @@
     ]
   },
   {
+    "id": 66,
     "brand": "Priorix Tetra",
     "web": [
       { "color": "#2082A7", "type": "Primary Color" },
@@ -1173,6 +1247,7 @@
     ]
   },
   {
+    "id": 67,
     "brand": "GSK",
     "web": [
       { "color": "#F36633", "type": "" },
@@ -1181,10 +1256,5 @@
     ]
 
   }
-],
-"metadata": {
-  "source": "prashant.xlsx",
-  "created": "2025-12-23",
-  "description": "GSK Brand Color Palettes for Web and Email Channels"
-}
+]
 }
