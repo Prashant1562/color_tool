@@ -2,8 +2,9 @@
    "users": [
       {
         "id": 1,
-        "email": "prashant.gunjal@vml.com",
-        "password" : "prashant.gunjal"
+        "name": "Gertrudis Tatterton",
+        "age": 18,
+        "email": "gtatterton0@ehow.com"
       }
     ],
 
