@@ -1250,11 +1250,19 @@
     "id": 67,
     "brand": "GSK",
     "web": [
-      { "color": "#F36633", "type": "" },
-      { "color": "#F0EFED", "type": "" },
-      { "color": "#E6E6E6", "type": "" }
+      { "color": "#F36633", "type": "Primary Color" },
+      { "color": "#F0EFED", "type": "Secondary Color" },
+      { "color": "#E6E6E6", "type": "Secondary Color" }
     ]
 
+  },
+  {
+    "id": 68,
+    "brand": "Combodart",
+    "email": [
+      { "color": "#AC1737", "type": "Primary Color" },
+      { "color": "1C3F94", "type": "Primary Color" }
+    ]
   }
 ]
 }
