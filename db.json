@@ -1262,7 +1262,7 @@
     "brand": "Combodart",
     "email": [
       { "color": "#AC1737", "type": "Primary Color" },
-      { "color": "1C3F94", "type": "Primary Color" }
+      { "color": "#1C3F94", "type": "Primary Color" }
     ]
   }
 ]
