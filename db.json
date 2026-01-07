@@ -1294,6 +1294,24 @@
       { "color": "#002F5F", "type": "Primary Color" },
       { "color": "#2A6DBA", "type": "Primary Color" }
     ]
+  },
+  {
+    "id": 73,
+    "brand": "Dovipsa",
+    "web": [
+      { "color": "#DB146B", "type": "Primary Color" },
+      { "color": "#612166", "type": "Secondary Color" },
+      { "color": "#FEF6F9", "type": "Accent" },
+      { "color": "#612166", "type": "Navigation" },
+      { "color": "#DB146B", "type": "Button" }
+    ],
+    "email": [
+      { "color": "#DB146B", "type": "Primary Color" },
+      { "color": "#612166", "type": "Secondary Color" },
+      { "color": "#FEF6F9", "type": "Accent" },
+      { "color": "#612166", "type": "Navigation" },
+      { "color": "#DB146B", "type": "Button" }
+    ]
   }
 ]
 }
