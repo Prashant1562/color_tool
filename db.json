@@ -568,7 +568,7 @@
     "id": 31,
     "brand": "Keppra",
     "web": [
-      { "color": "#1E2A4", "type": "Primary Color" },
+      { "color": "#1E2A4A", "type": "Primary Color" },
       { "color": "#DEEBF4", "type": "Secondary Color" },
       { "color": "#F0F0F0", "type": "Accent" },
       { "color": "#FF8300", "type": "Button" },
