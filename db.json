@@ -1264,6 +1264,45 @@
       { "color": "#AC1737", "type": "Primary Color" },
       { "color": "#1C3F94", "type": "Primary Color" }
     ]
+  },
+   {
+    "id": 69,
+    "brand": "Phexin",
+    "email": [
+      { "color": "#2591D0", "type": "Primary Color" }
+    ]
+  },
+   {
+    "id": 70,
+    "brand": "Manveo",
+    "email": [
+      { "color": "#CF0060", "type": "Primary Color" },
+      { "color": "#D18E00", "type": "Primary Color" },
+      { "color": "#6B3A78", "type": "Primary Color" }
+    ]
+  },
+    {
+    "id": 71,
+    "brand": "Cutivate",
+    "email": [
+      { "color": "#0078BE", "type": "Primary Color" }
+    ]
+  },
+  {
+    "id": 72,
+    "brand": "Triumeq",
+    "email": [
+      { "color": "#42145F", "type": "Primary Color" },
+      { "color": "#733C97", "type": "Primary Color" }
+    ]
+  },
+    {
+    "id": 73,
+    "brand": "Tivicay",
+    "email": [
+      { "color": "#002F5F", "type": "Primary Color" },
+      { "color": "#2A6DBA", "type": "Primary Color" }
+    ]
   }
 ]
 }
