@@ -1272,24 +1272,15 @@
       { "color": "#2591D0", "type": "Primary Color" }
     ]
   },
-   {
-    "id": 70,
-    "brand": "Manveo",
-    "email": [
-      { "color": "#CF0060", "type": "Primary Color" },
-      { "color": "#D18E00", "type": "Primary Color" },
-      { "color": "#6B3A78", "type": "Primary Color" }
-    ]
-  },
     {
-    "id": 71,
+    "id": 70,
     "brand": "Cutivate",
     "email": [
       { "color": "#0078BE", "type": "Primary Color" }
     ]
   },
   {
-    "id": 72,
+    "id": 71,
     "brand": "Triumeq",
     "email": [
       { "color": "#42145F", "type": "Primary Color" },
@@ -1297,7 +1288,7 @@
     ]
   },
     {
-    "id": 73,
+    "id": 72,
     "brand": "Tivicay",
     "email": [
       { "color": "#002F5F", "type": "Primary Color" },
