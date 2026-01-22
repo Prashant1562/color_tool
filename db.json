@@ -1100,12 +1100,13 @@
       { "color": "#25205E", "type": "Button" }
     ],
     "email": [
-      { "color": "#25205E", "type": "Primary Color" },
+        { "color": "#25205E", "type": "Primary Color"},
+      { "color": "#00A2C2", "type": "Primary Color"},
+      { "color": "#00758B", "type": "Primary Color"},
       { "color": "#E5F6F9", "type": "Secondary Color" },
+      { "color": "#585353", "type": "Secondary Color" },
       { "color": "#FEE7EA", "type": "Accent" },
-      { "color": "#25205E", "type": "Navigation" },
-      { "color": "#25205E", "type": "Button" },
-      { "color": "#D5F1F4", "type": "Primary Color" }
+      { "color": "#25205E", "type": "Button" }
     ]
   },
   {
