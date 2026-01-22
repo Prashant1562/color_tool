@@ -1315,6 +1315,25 @@
       { "color": "#612166", "type": "Navigation" },
       { "color": "#DB146B", "type": "Button" }
     ]
+  },
+  {
+    "id": 41,
+    "brand": "Relvar Ellipta",
+    "web": [
+      { "color": "#747476", "type": "Primary Color" },
+      { "color": "#F9EEB8", "type": "Secondary Color" },
+      { "color": "#F0F0F0", "type": "Accent" },
+      { "color": "#004B8D", "type": "Button" },
+      { "color": "#FFE04C", "type": "Navigation" }
+    ],
+    "email": [
+      { "color": "#004B8D", "type": "Primary Color" },
+      { "color": "#FFFFFF", "type": "Surface Color" },
+      { "color": "#DCE4EA", "type": "Surface Color" },
+      { "color": "#F7EEC4", "type": "Surface Color" },
+      { "color": "#A1A1A4", "type": "Surface Color" },
+      { "color": "#FFD400", "type": "Surface Color" }
+    ]
   }
 ]
 }
